@@ -1,0 +1,14 @@
+site_name: 视觉工作室 2024
+theme: readthedocs
+# pages:
+# - [index.md, Home]
+# - [about.md, About]
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - About: about.md
