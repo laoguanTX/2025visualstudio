@@ -1,5 +1,8 @@
 site_name: 视觉工作室 2024
-theme: readthedocs
+copyright: Copyright &copy; 2024 视觉工作室
+theme: 
+  name: material
+  logo: graph/logo.jpg
 # pages:
 # - [index.md, Home]
 # - [about.md, About]
@@ -10,5 +13,22 @@ markdown_extensions:
   - toc:
       permalink: true
 nav:
-  - Home: index.md
-  - About: about.md
+  - 视觉首页: index.md
+  - 关于我们: team/index.md
+  - 管理条例: 
+    - 条例目录: rule/index.md
+    - 设备管理条例: rule/device/index.md
+    - 全媒体中心章程: rule/constitution/index.md
+    - 竺可桢学院学生评价实施细则: rule/detail/index.md
+    - 竺可桢学院公共空间使用办法: rule/method/index.md
+  - 出锅实录: 
+    - 出锅记录表: pot/index.md
+  - 视觉周记: 
+    - 周记目录: weekly/index.md
+  - 相关资源: 
+    - 资源目录: resource/index.md
+    - 视觉秘籍: resource/book/index.md
+    - 全媒体资源: resource/media/index.md
+    - 设备说明书: resource/manual/index.md
+    - 直播操控台软件: resource/software/index.md
+    - 搭建直播系统教程: resource/live/index.md
