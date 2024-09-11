@@ -6,6 +6,20 @@ theme:
 # pages:
 # - [index.md, Home]
 # - [about.md, About]
+  favicon: graph/logo.jpg
+  features:
+    - search.highlight
+#    - navigation.instant
+    - navigation.footer
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - content.code.copy
+    - content.code.annotate
+    - content.action.edit
 markdown_extensions:
   - admonition
   - codehilite:
