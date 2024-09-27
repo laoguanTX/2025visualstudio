@@ -40,6 +40,8 @@ nav:
     - 出锅记录表: pot/index.md
   - 视觉周记: 
     - 周记目录: weekly/index.md
+    - 例会0: weekly/meeting_0/index.md
+    - 例会1: weekly/meeting_1/index.md
   - 相关资源: 
     - 资源目录: resource/index.md
     - 视觉秘籍: resource/book/index.md
