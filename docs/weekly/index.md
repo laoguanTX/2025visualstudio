@@ -23,5 +23,10 @@
         <td>2024.09.27</td>
         <td>摄影入门与接锅流程讲解</td>
     </tr>
+    <tr>
+        <td><a href="meeting_2/">例会2</a></td>
+        <td>2024.10.11</td>
+        <td>相机基本操作+Lr入门</td>
+    </tr>
 </tbody>
 </table>

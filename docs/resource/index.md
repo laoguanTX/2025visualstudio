@@ -28,5 +28,9 @@
         <td><a href="live/">搭建直播系统教程</a></td>
         <td>bowling学长录制的直播教程</td>
     </tr>
+    <tr>
+        <td><a href="up/">b站up主推荐</a></td>
+        <td>老大们的up主推荐</td>
+    </tr>
 </tbody>
 </table>

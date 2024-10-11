@@ -18,6 +18,10 @@
 </thead>
 <tbody>
     <tr>
+        <td><a href="workflow/workflow_of_pot.pdf">接锅流程</a></td>
+        <td>针对视觉工作室干事接取任务的整个工作流</td>
+    </tr>
+    <tr>
         <td><a href="device/">设备管理条例</a></td>
         <td>设备清单，针对视觉工作室干事的取用原则及注意事项</td>
     </tr>

@@ -31,6 +31,7 @@ nav:
   - 关于我们: team/index.md
   - 管理条例: 
     - 条例目录: rule/index.md
+    - 接锅流程: rule/workflow/index.md
     - 设备管理条例: rule/device/index.md
     - 视觉工作室设备租用细则: rule/rent/index.md
     - 浙江大学竺可桢学院全媒体中心章程: rule/constitution/index.md
@@ -38,10 +39,12 @@ nav:
     - 竺可桢学院公共空间使用办法（试行）: rule/method/index.md
   - 出锅实录: 
     - 出锅记录表: pot/index.md
+    - 国庆升旗拍摄: pot/pot_1/index.md
   - 视觉周记: 
     - 周记目录: weekly/index.md
     - 例会0: weekly/meeting_0/index.md
     - 例会1: weekly/meeting_1/index.md
+    - 例会2: weekly/meeting_2/index.md
   - 相关资源: 
     - 资源目录: resource/index.md
     - 视觉秘籍: resource/book/index.md
@@ -49,3 +52,4 @@ nav:
     - 设备说明书: resource/manual/index.md
     - 直播操控台软件: resource/software/index.md
     - 搭建直播系统教程: resource/live/index.md
+    - b站up主推荐: resource/up/index.md
