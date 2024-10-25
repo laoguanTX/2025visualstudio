@@ -28,5 +28,10 @@
         <td>2024.10.11</td>
         <td>相机基本操作+Lr入门</td>
     </tr>
+    <tr>
+        <td><a href="meeting_3/">例会3</a></td>
+        <td>2024.10.25</td>
+        <td>视频前后期</td>
+    </tr>
 </tbody>
 </table>
