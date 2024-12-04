@@ -4,7 +4,9 @@
 
 - 楠迪 无人机分享
 
+### 照片
 
-### 附录
-
-- 
+![alt text](DJI_0175.JPG)
+![alt text](DJI_0180.JPG)
+![alt text](DJI_0181.JPG)
+![alt text](DJI_0183.JPG)
