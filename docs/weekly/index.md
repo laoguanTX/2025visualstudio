@@ -33,5 +33,25 @@
         <td>2024.10.25</td>
         <td>视频前后期</td>
     </tr>
+    <tr>
+        <td><a href="meeting_4/">例会4</a></td>
+        <td>2024.11.15</td>
+        <td>部门设备介绍 & 产品介绍</td>
+    </tr>
+    <tr>
+        <td><a href="meeting_5/">例会5</a></td>
+        <td>2024.11.23</td>
+        <td>无人机分享</td>
+    </tr>
+    <tr>
+        <td><a href="meeting_6/">例会6</a></td>
+        <td>2024.11.29</td>
+        <td>入坑 & 作品分享 & 集体生日</td>
+    </tr>
+    <tr>
+        <td><a href="meeting_7/">例会7</a></td>
+        <td>2024.12.06</td>
+        <td>照片分享</td>
+    </tr>
 </tbody>
 </table>
