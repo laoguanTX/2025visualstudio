@@ -53,5 +53,20 @@
         <td>2024.12.06</td>
         <td>照片分享</td>
     </tr>
+    <tr>
+        <td><a href="meeting_8/">例会8</a></td>
+        <td>2025.02.21</td>
+        <td>直播培训</td>
+    </tr>
+    <tr>
+        <td><a href="meeting_9/">例会9</a></td>
+        <td>2025.02.28</td>
+        <td>风光后期</td>
+    </tr>
+    <tr>
+        <td><a href="meeting_10/">例会10</a></td>
+        <td>2025.03.07</td>
+        <td>人像分享</td>
+    </tr>
 </tbody>
 </table>
